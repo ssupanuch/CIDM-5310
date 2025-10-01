@@ -1,7 +1,5 @@
 ```mermaid
----
-title: Competition round dynamic
----
+
 erDiagram
    direction TB
 
