@@ -1,4 +1,4 @@
-# Bogey Problem
+# Bogey Buster
 
 ```mermaid
 flowchart TD
